@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\lista do maromo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
